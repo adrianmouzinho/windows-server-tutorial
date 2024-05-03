@@ -16,7 +16,7 @@ Lembre-se de que este tutorial serve como uma introdução básica à configura�
 
 Sem mais delongas, vamos começar a explorar a emocionante jornada de implementação de servidores com o Windows Server 2019!
 
-[Ir para o tutorial](https://github.com/adrianmouzinho/windows-server-tutorial/wiki/Prepara%C3%A7%C3%A3o-do-Ambiente)
+[Ir para o tutorial](https://github.com/adrianmouzinho/windows-server-tutorial/wiki/1.-Requisitos-M%C3%ADnimos)
 
 ### 1. Preparação do Ambiente
 
